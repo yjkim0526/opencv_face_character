@@ -121,4 +121,8 @@ with mp_face_detection.FaceDetection(model_selection=0, min_detection_confidence
 
 cap.release()
 cv2.destroyAllWindows()
-    
+
+
+
+### python.readthedocs 
+### https://opencv-python.readthedocs.io/en/latest/doc/29.matchDigits/matchDigits.html 
